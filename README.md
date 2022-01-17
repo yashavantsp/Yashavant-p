@@ -1,0 +1,2 @@
+# Yashavant-p
+.net core
